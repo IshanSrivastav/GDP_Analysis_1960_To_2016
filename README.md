@@ -70,6 +70,7 @@ To run the code locally, you need Python 3.x, Jupyter Notebook and the following
 Install dependencies with:
 ```bash
 pip install pandas plotly
+```
 
 ## Running the Analysis
 - Clone the repository.
@@ -82,3 +83,7 @@ pip install pandas plotly
 - The analysis provides insights into GDP growth rates across different countries.
 - Observations on outlier countries with unique growth trends.
 - Example comparisons: China vs. USA GDP growth, India’s GDP trend relative to the world average.
+
+# Contributing
+
+**Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to submit a pull request.**
